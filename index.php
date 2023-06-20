@@ -5,6 +5,7 @@
   <title>Phone number validating</title>
 </head>
 <body>
+
   <h1>Проверка номера телефона</h1>
 
   <label for="phone">Введите номер телефона:</label><br>
