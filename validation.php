@@ -12,7 +12,6 @@ try {
   //получаем значение с введенным номером телефона из input (#phone)
   if (isset($_POST['value'])){
     $INPUT = $_POST['value'];
-    $response = array('value' => $INPUT);
   }
 
   //обрабатываем номер, используя библиотеку libphonenumber-php
